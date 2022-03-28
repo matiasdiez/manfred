@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Matias",
+      "surnames": "Diez",
+      "title": "",
+      "description": "",
+      "location": {
+        "notes": "Buenos Aires"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/matiasdiez/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/webbmatias"
+      }
+    ]
+  }
+}
